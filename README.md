@@ -9,6 +9,7 @@ Dentro da pasta `AT`, você encontrará subpastas nomeadas de `AT1` a `AT5`, cad
 ### 📁 AT1CalculoIMC
 
 Implementação de uma classe para cálculo de IMC (Índice de Massa Corporal), incluindo testes com JUnit para verificar os resultados conforme faixas de peso.
+O repositório de referência foi: https://github.com/Wolfterro/Projetos-em-Java/tree/master/CalculoIMC
 
 ### 📁 AT2MathFunctions
 
@@ -28,7 +29,8 @@ Automação de testes com Selenium WebDriver no site [Automation Exercise](https
 
 ### 📁 AT5TheAlgorithmsBubbleSort
 
-Implementação do algoritmo de ordenação BubbleSort em Java e SortUtils, com exemplos práticos e testes unitários. O foco principal foi aumentar os testes de cobertura do BubbleSort, mas como já estavam sendo 100% cobertos do repositório original o foco foi aprimorar os testes do Utils
+Implementação do algoritmo de ordenação BubbleSort em Java e SortUtils, com exemplos práticos e testes unitários. O foco principal foi aumentar os testes de cobertura do BubbleSort, mas como já estavam sendo 100% cobertos do repositório original o foco foi aprimorar os testes do Utils.
+O repositório de referência foi: https://github.com/TheAlgorithms/Java
 
 ## Requisitos
 
